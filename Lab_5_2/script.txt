@@ -1,0 +1,10 @@
+update 4
+ssss
+1233
+55443
+1111
+easy
+sss
+1111
+1111
+execute_script script1.txt
